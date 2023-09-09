@@ -1,0 +1,8 @@
+while true do
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+ Title = "MyLeTaKy";
+ Text = "t.me/myletakykey";
+ Icon = "rbxthumb://type=Asset&id=14435031323&w=150&h=150"})
+Duration = 0.1;
+wait()
+end
